@@ -11,7 +11,7 @@ msgstr ""
 
 #. (itstool) path: component/name
 #: org.kde.okular-md.metainfo.xml:6
-msgid "Markdown"
+msgid "Markdow"
 msgstr ""
 
 #. (itstool) path: component/summary
