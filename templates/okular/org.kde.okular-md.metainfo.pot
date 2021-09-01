@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. (itstool) path: component/name
-#: org.kde.okular-md.metainfo.xml:7
+#: org.kde.okular-md.metainfo.xml:6
 msgid "Markdown"
 msgstr ""
 
